@@ -1,13 +1,22 @@
-# Landing Page Project
+![image](https://user-images.githubusercontent.com/90541446/163730235-6941b6cf-a585-4c50-ad37-9fa45ed28eb2.png)
 
-## Table of Contents
+# Landing-Page
 
-* [Instructions](#instructions)
+Responsive multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page. using only HTML, CSS, Javascript 
 
-## Instructions
+# Demo-Preview
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+![Demo](landingPageDemo.gif)
 
-To get started, open `js/app.js` and start building out the app's functionality
+# Table of contents
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+- [Landing-Page](#landing-page)
+- [Demo-Preview](#demo-preview)
+- [Table of contents](#table-of-contents)
+- [Installation](#installation)
+
+# Installation
+[(Back to top)](#table-of-contents)
+
+- Just clone the project
+- Start index.html with live server
