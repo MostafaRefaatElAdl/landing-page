@@ -37,8 +37,6 @@ let mediaConditionSmall = window.matchMedia("(min-width: 450px)")
  * 
  */
 
-//!TODO:README File!!!!
-
 /**
  * End Helper Functions
  * Begin Main Functions
