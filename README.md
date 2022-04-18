@@ -7,7 +7,6 @@ Responsive multi-section landing page, with a dynamically updating navigational 
 # Table of contents
 
 - [Landing-Page](#landing-page)
-- [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 
