@@ -4,10 +4,6 @@
 
 Responsive multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page. using only HTML, CSS, Javascript 
 
-# Demo-Preview
-
-![Demo](landingPageDemo.gif)
-
 # Table of contents
 
 - [Landing-Page](#landing-page)
